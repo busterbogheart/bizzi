@@ -88,6 +88,7 @@ const App = () => {
   );
 };
 
+
 const styles = StyleSheet.create({
   button: {
     paddingVertical: 20,
