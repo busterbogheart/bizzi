@@ -1,0 +1,856 @@
+[
+	{
+		"venue_id": "ven_77643133493376327a732d526b49726a6a766f4444776c4a496843",
+		"venue_name": "Dain's Place",
+		"venue_address": "754 9th St Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_773077725f325866664151526b49726b4c4864563452764a496843",
+		"venue_name": "The Parlour",
+		"venue_address": "117 Market St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_5173754a344d5033743938526b49726a6a66704b5679554a496843",
+		"venue_name": "Panera Bread",
+		"venue_address": "737 9th St Suite 200 Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_4558646133466f6f666962526b49726b4c5867315459694a496843",
+		"venue_name": "Viceroy",
+		"venue_address": "335 W Main St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_3844513344663746636167526b49726b7a47596350565a4a496843",
+		"venue_name": "Tobacco Road Sports Cafe",
+		"venue_address": "280 S Mangum St #100 Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_6b36343456533847724539526b49726c6a43524f4d306e4a496843",
+		"venue_name": "Insomnia Cookies",
+		"venue_address": "1105 W Main St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_38523863736e6458517a33526b49726d447246717236714a496843",
+		"venue_name": "McDonald's",
+		"venue_address": "Bryan University Center 106 Durham, NC 27708 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_51415a365231686a545976526b49726d5f3637414251414a496843",
+		"venue_name": "The Loop Restaurant",
+		"venue_address": "Duke University Center 125 Science Dr Durham, NC 27708 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_5945545245482d2d663145526b49726d585057464357494a496843",
+		"venue_name": "Chuck E. Cheese",
+		"venue_address": "3724 Mayfair St Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_77625874356a7079514f6c526b49726b6a7931307a66714a496843",
+		"venue_name": "Beer Study-Durham",
+		"venue_address": "2501 University Dr #4 Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_30655847695f37684b6b59526b49726b7a6752666539764a496843",
+		"venue_name": "Federal",
+		"venue_address": "914 W Main St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_386641586e4a54742d4770526b49726b373244526533684a496843",
+		"venue_name": "Bull City Burger and Brewery",
+		"venue_address": "107 E Parrish St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_597147572d555331485973526b49726d505563343577354a496843",
+		"venue_name": "Pop's Backdoor",
+		"venue_address": "3710 Shannon Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_513038364674493170654c526b49726b7a32364d5561454a496843",
+		"venue_name": "Mellow Mushroom Durham",
+		"venue_address": "410 Blackwell St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_772d5a49484b4369617332526b4972686a6b417176536e4a496843",
+		"venue_name": "Krispy Kreme",
+		"venue_address": "3536 Hillsborough Rd Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_5570356e564d5a4d785568526b49726b3747483631386b4a496843",
+		"venue_name": "Pompieri Pizza",
+		"venue_address": "102 City Hall Plaza Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_67386e7342535a7a735a36526b49726d5f6c42737432434a496843",
+		"venue_name": "Cook Out",
+		"venue_address": "3119 Shannon Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_635a4941796e42484a5165526b49726b4c48436b61332d4a496843",
+		"venue_name": "Pour Taproom: Durham",
+		"venue_address": "202 N Corcoran St #200 Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_6332687731414a4d666346526b49726b33473379382d334a496843",
+		"venue_name": "Quarter Horse Bar & Arcade",
+		"venue_address": "108 S Mangum St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_77583353744d4a41534654526b49726d5072624c2d325f4a496843",
+		"venue_name": "Smashburger",
+		"venue_address": "2608 Erwin Rd Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_6b3034334156537a344c6552676f4963497077304d38354a496843",
+		"venue_name": "IHOP",
+		"venue_address": "5245 E Pickard Rd Mt Pleasant, MI 48858 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_495564396970424e6e334f526759495f397353663933654a496843",
+		"venue_name": "Walmart Supercenter",
+		"venue_address": "910 Joe Mann Blvd Midland, MI 48642 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_6b375a523732574766544c5267344950585632696930464a496843",
+		"venue_name": "Roethke Park",
+		"venue_address": "300- 934 Leddy Rd Saginaw, MI 48609 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_3444536271646a3771716c52673449566e684a485935394a496843",
+		"venue_name": "Cafe Zinc",
+		"venue_address": "111 W Main St Midland, MI 48640 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_51613679354749674c622d5267344956726869414133744a496843",
+		"venue_name": "Live Oak Coffeehouse",
+		"venue_address": "711 Ashman St Midland, MI 48640 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_554d72434332414d6b417152676f49626755384a3278764a496843",
+		"venue_name": "Texas Roadhouse",
+		"venue_address": "2177 S Mission St Mt Pleasant, MI 48858 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_55735577393478565f775252676f4963514a6d676677414a496843",
+		"venue_name": "Burger King",
+		"venue_address": "5014 E Pickard Rd Mt Pleasant, MI 48858 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_4d3541516f78436831387452676f49555150352d6955764a496843",
+		"venue_name": "Burger King",
+		"venue_address": "1675 Wright Ave Alma, MI 48801 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_3456336d46356f386e4b575267344943486a446c35305a4a496843",
+		"venue_name": "McDonald's",
+		"venue_address": "510 S Michigan Ave Saginaw, MI 48602 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_77366b6e4c374252523338526734495576654a674258434a496843",
+		"venue_name": "Overlook Park",
+		"venue_address": "801- 835 S Poseyville Rd Midland, MI 48640 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_49484e35476b55624d4a3152673449645044495a4e39434a496843",
+		"venue_name": "IHOP",
+		"venue_address": "2255 Tittabawassee Rd Saginaw, MI 48604 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_736c697163654d41534f5152675949674e4b35317165524a496843",
+		"venue_name": "Tobico Marsh Nature Area",
+		"venue_address": "Killarney Beach Rd Bay City, MI 48706 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_38507944627a5f345f4a5052676f49457372747773584d4a496843",
+		"venue_name": "The Cabin",
+		"venue_address": "930 W Broomfield St Mt Pleasant, MI 48858 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_454d75674857725048415652676f496334714462655f744a496843",
+		"venue_name": "BIGGBY COFFEE",
+		"venue_address": "210 S Mission St Mt Pleasant, MI 48858 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_63556d655544495562336d526759494865435a735951634a496843",
+		"venue_name": "McDonald's",
+		"venue_address": "2738 M-30 Sanford, MI 48657 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_676b356b72335651385a49526734497966383858452d4f4a496843",
+		"venue_name": "Heritage Park",
+		"venue_address": "601 Weiss St Frankenmuth, MI 48734 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_30775856495436625f4b6d526734496676766c637658764a496843",
+		"venue_name": "Cracker Barrel Old Country Store",
+		"venue_address": "2854 Wilder Rd Bay City, MI 48706 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_5937664f4a6a4b61417143526734495572537a635933374a496843",
+		"venue_name": "McDonald's",
+		"venue_address": "601 Waldo Ave Midland, MI 48642 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-07 01:32AM"
+	},
+	{
+		"venue_id": "ven_634477746c5833356b736c526b49726b446948565f584e4a496843",
+		"venue_name": "Food Lion",
+		"venue_address": "2000 Chapel Hill Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-06 10:26PM"
+	},
+	{
+		"venue_id": "ven_73624f625a32555f5a5474526b4972375f356b393336374a496843",
+		"venue_name": "Gcf Donation Center & Store",
+		"venue_address": "Durham, NC 27703 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-02 05:07PM"
+	},
+	{
+		"venue_id": "ven_67696d4f6161545a615974526b497279443067536c58734a496843",
+		"venue_name": "Hipoke",
+		"venue_address": "9573 Chapel Hill Rd Morrisville, NC 27560 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_7741695a3237414d334650526b4972744c5165455139584a496843",
+		"venue_name": "LemonShark Poke",
+		"venue_address": "2000 Boulderstone Way Cary, NC 27519 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_3075583254334e6e323043526b49727044686e666d784b4a496843",
+		"venue_name": "ZenFish Poke Bar",
+		"venue_address": "105 W North Carolina 54 #261 Durham, NC 27713 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_6356306372507936757949526b49724366754f614d79504a496843",
+		"venue_name": "Spicy 9 Sushi Bar & Asian Restaurant",
+		"venue_address": "140 W Franklin St #150 Chapel Hill, NC 27516 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_38594a354b736848335679526b49726a6a5034585035554a496843",
+		"venue_name": "ZenFish Poke Bar",
+		"venue_address": "810 9th St Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_346f44586776576c4e7a53526b49726d54624a7963654f4a496843",
+		"venue_name": "Pho & Poke House",
+		"venue_address": "2816 Erwin Rd #207 Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_30466853634b356f2d7766526b4972446a42526f4251324a496843",
+		"venue_name": "Hawkers Asian Street Food",
+		"venue_address": "201 S Estes Dr #400A Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_4d3638537a6a4537546e38526b4972434465324c3178794a496843",
+		"venue_name": "The Purple Bowl",
+		"venue_address": "306B W Franklin St Chapel Hill, NC 27516 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_45373768592d2d31715959526b4972644c626b6d4b596f4a496843",
+		"venue_name": "Hibachi Poke",
+		"venue_address": "1808 M.L.K. Jr Blvd b4 Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_776235646b414441627059526b4972437a364c597061444a496843",
+		"venue_name": "bartaco",
+		"venue_address": "201 S Estes Dr Suite E3 Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_4176783236517446614f55526b4972647252424a67624e4a496843",
+		"venue_name": "OiShii",
+		"venue_address": "# 1129 Weaver Dairy Rd M Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_77437439506e664a5a4667526b49727a506b68464d39314a496843",
+		"venue_name": "ZenFish Poke Bar",
+		"venue_address": "9924 Chapel Hill Rd Morrisville, NC 27560 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_49464653307573754e6b55526b497243662d676349614d4a496843",
+		"venue_name": "Kurama Sushi & Noodle Express",
+		"venue_address": "105 N Columbia St Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_63324f6e71434932497066526b49724372646f516d63734a496843",
+		"venue_name": "Lucha Tigre",
+		"venue_address": "746 M.L.K. Jr Blvd Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_3443504e376f7644457535526b4972433374575a3456674a496843",
+		"venue_name": "Hibachi & Company",
+		"venue_address": "153 E Franklin St Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_67576b6c7642666d584970526b49726e7262427057664a4a496843",
+		"venue_name": "Tasu Express Wing and Poke",
+		"venue_address": "3307 Watkins Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_4d66387562344651426c2d526b49726c377744386a55614a496843",
+		"venue_name": "Pokeworks",
+		"venue_address": "122 W Main St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-02-01 12:57PM"
+	},
+	{
+		"venue_id": "ven_6f4369786e483276425735526b49726b33775378417a444a496843",
+		"venue_name": "West End Billiards",
+		"venue_address": "601 W Main St Suite A Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-30 10:55PM"
+	},
+	{
+		"venue_id": "ven_4134387061446a6867442d526b49726c4c524a394b56584a496843",
+		"venue_name": "Rumors Durham",
+		"venue_address": "2501 University Dr #3 Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-30 06:12PM"
+	},
+	{
+		"venue_id": "ven_30386b7949685851616c35526b49726d505563343577354a496843",
+		"venue_name": "Bull and Bean",
+		"venue_address": "3710 Shannon Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-30 04:46PM"
+	},
+	{
+		"venue_id": "ven_30386b7949685851616c35526b49726d505563343577354a496843",
+		"venue_name": "Bull and Bean",
+		"venue_address": "3710 Shannon Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-30 03:46PM"
+	},
+	{
+		"venue_id": "ven_632d30713653346930666c526b49726a37654a715a5a514a496843",
+		"venue_name": "Sky Zone",
+		"venue_address": "1720 Guess Rd Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-29 10:42PM"
+	},
+	{
+		"venue_id": "ven_4d5a2d4c6c4e55484a436b526b49726c5f316d3649616d4a496843",
+		"venue_name": "Triangle Rock Club - Durham",
+		"venue_address": "1010 Martin Luther King Jr Pkwy Suite 400 Durham, NC 27713 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-29 01:30PM"
+	},
+	{
+		"venue_id": "ven_4d6e685f725a63334b704252416f7734693062706c564c4a496843",
+		"venue_name": "West Angeles Church Of God In Christ",
+		"venue_address": "3045 Crenshaw Blvd Los Angeles, CA 90016 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 07:16PM"
+	},
+	{
+		"venue_id": "ven_4d5a2d4c6c4e55484a436b526b49726c5f316d3649616d4a496843",
+		"venue_name": "Triangle Rock Club - Durham",
+		"venue_address": "1010 Martin Luther King Jr Pkwy Suite 400 Durham, NC 27713 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 06:57PM"
+	},
+	{
+		"venue_id": "ven_454a335176616167664b5a526b49726d54495736442d544a496843",
+		"venue_name": "Hardee's",
+		"venue_address": "2721 Chapel Hill Rd #3 Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 05:11PM"
+	},
+	{
+		"venue_id": "ven_67547a733335766a777656526b49726d543453737561774a496843",
+		"venue_name": "Mobil",
+		"venue_address": "2900 Durham-Chapel Hill Blvd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 05:11PM"
+	},
+	{
+		"venue_id": "ven_4d4b62316e664a76785875526b49726d504973646c51754a496843",
+		"venue_name": "Guglhupf Bakery, Cafe & Biergarten",
+		"venue_address": "2706 Durham-Chapel Hill Blvd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 04:58PM"
+	},
+	{
+		"venue_id": "ven_4d6d3650675630626f4331526b49726d625f46304b7a6e4a496843",
+		"venue_name": "McDonald's",
+		"venue_address": "3117 Tower Blvd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 04:52PM"
+	},
+	{
+		"venue_id": "ven_73415431693567785a5453526b49726658796c384965424a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "144 E King St Hillsborough, NC 27278 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_38726e304e58633150674e526b4972444c5542427535754a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "1500 W Main St Carrboro, NC 27510 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_492d376b6d776d54724272526b497276546f583949544b4a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "65 TW Alexander Dr Research Triangle, NC 27709 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_51723034777a6a7958762d526b4972696e414b4d312d6f4a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "311 Milton Rd Durham, NC 27712 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_4d475354526b7557364567526b4972436e655a505161514a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "Daniels Student Stores 207 South Rd Chapel Hill, NC 27599 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_45664444797348536d7256526b4972434c63725a6836484a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "179 E Franklin St Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_63793959736e663264624d526b49726b72706d335055724a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "1100 N Miami Blvd Durham, NC 27703 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_416c5f6833453943725838526b49726a5f6169516636504a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "3500 N Roxboro St Ste 30 Durham, NC 27704 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_457472342d556e4d6e3256526b4972434c374449385a734a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "125 S Estes Dr Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_55776a6b57344f53693561526b49726472786263415a444a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "1129 Weaver Dairy Rd T Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_5178355274446955305f39526b49726b4848396a6b78664a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "323 E Chapel Hill St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_414147646841625a575242526b49726d446245574e79674a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "Bryan University Center 125 Science Dr Durham, NC 27708 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_67555439504e6e74667877526b49726d506b44564259504a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "3710 Shannon Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_49306d45354e334c494379526b497268726b35332d526a4a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "3520 Kangaroo Dr Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:35PM"
+	},
+	{
+		"venue_id": "ven_73415431693567785a5453526b49726658796c384965424a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "144 E King St Hillsborough, NC 27278 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_457472342d556e4d6e3256526b4972434c374449385a734a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "125 S Estes Dr Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_45664444797348536d7256526b4972434c63725a6836484a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "179 E Franklin St Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_49306d45354e334c494379526b497268726b35332d526a4a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "3520 Kangaroo Dr Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_416c5f6833453943725838526b49726a5f6169516636504a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "3500 N Roxboro St Ste 30 Durham, NC 27704 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_55776a6b57344f53693561526b49726472786263415a444a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "1129 Weaver Dairy Rd T Chapel Hill, NC 27514 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_492d376b6d776d54724272526b497276546f583949544b4a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "65 TW Alexander Dr Research Triangle, NC 27709 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_51723034777a6a7958762d526b4972696e414b4d312d6f4a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "311 Milton Rd Durham, NC 27712 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_4d475354526b7557364567526b4972436e655a505161514a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "Daniels Student Stores 207 South Rd Chapel Hill, NC 27599 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_38726e304e58633150674e526b4972444c5542427535754a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "1500 W Main St Carrboro, NC 27510 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_5178355274446955305f39526b49726b4848396a6b78664a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "323 E Chapel Hill St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_414147646841625a575242526b49726d446245574e79674a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "Bryan University Center 125 Science Dr Durham, NC 27708 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_63793959736e663264624d526b49726b72706d335055724a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "1100 N Miami Blvd Durham, NC 27703 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_67555439504e6e74667877526b49726d506b44564259504a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "3710 Shannon Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_67555439504e6e74667877526b49726d506b44564259504a496843",
+		"venue_name": "United States Postal Service",
+		"venue_address": "3710 Shannon Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:34PM"
+	},
+	{
+		"venue_id": "ven_38436d4e766534734d7038526b49726e5033446e7a78754a496843",
+		"venue_name": "Hollow Rock Nature Park",
+		"venue_address": "692 Erwin Rd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-28 03:33PM"
+	},
+	{
+		"venue_id": "ven_4d4b62316e664a76785875526b49726d504973646c51754a496843",
+		"venue_name": "Guglhupf Bakery, Cafe & Biergarten",
+		"venue_address": "2706 Durham-Chapel Hill Blvd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:36PM"
+	},
+	{
+		"venue_id": "ven_49574a7a5063384a654739526b4972446e424a6f5f576e4a496843",
+		"venue_name": "Miel Bon Bons I Espresso Bar l Extraordinary Desserts",
+		"venue_address": "1011 W Main St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_6f42397656424357694367526b49726b33475f47705a544a496843",
+		"venue_name": "Loaf",
+		"venue_address": "111 W Parrish St Durham, NC 27701",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_38314e66525836784b4b4a526b49726c44626d636979634a496843",
+		"venue_name": "Sweets by Shayda",
+		"venue_address": "105 W Morgan St STE 105 Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_776c3376732d4656775456526b49726a44656a305054484a496843",
+		"venue_name": "The French Corner Bakery",
+		"venue_address": "2005 N Pointe Dr suite b Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_496a6e42794a453245526f526b49726a7a4a31745a37794a496843",
+		"venue_name": "Panaderia Pahuatlan",
+		"venue_address": "2000 Avondale Dr Suite U Durham, NC 27704 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_514e6a6d4a30416c38316d5251466e4275644952545a6f4a496843",
+		"venue_name": "Sweet River Bakery",
+		"venue_address": "Mall 203 Pateros, WA 98846 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_38713032674e5363675771526b49726b44355f62322d6b4a496843",
+		"venue_name": "La Estrella",
+		"venue_address": "1839 Liberty St C Durham, NC 27703 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_4979343144553854434f41526b4972686e634d61585a514a496843",
+		"venue_name": "Panaderia la loma",
+		"venue_address": "2908 Hillsborough Rd Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_59523032616b615a6c4259526b49726b4c3368764e66414a496843",
+		"venue_name": "Ninth Street Bakery",
+		"venue_address": "136 E Chapel Hill St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_5931496d6f487167746642526b49723948366e665559334a496843",
+		"venue_name": "Whisk & Rye",
+		"venue_address": "3401 University Dr #5 Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_676d656f6b5f3174613873526b49726b6677714b5f7a754a496843",
+		"venue_name": "Mad Hatter Cafe + Bakeshop",
+		"venue_address": "1802 W Main St Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_6b36343456533847724539526b49726c6a43524f4d306e4a496843",
+		"venue_name": "Insomnia Cookies",
+		"venue_address": "1105 W Main St Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_4d4b62316e664a76785875526b49726d504973646c51754a496843",
+		"venue_name": "Guglhupf Bakery, Cafe & Biergarten",
+		"venue_address": "2706 Durham-Chapel Hill Blvd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-27 09:24PM"
+	},
+	{
+		"venue_id": "ven_6f704f78384f5773367672526b49726b6e51764867516f4a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "S Food Ct Flowers Dr Durham, NC 27710 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	},
+	{
+		"venue_id": "ven_736147536462532d644a4f526b49726c725463656e776a4a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "610 E Lawson St W.G Pearson Student Center Durham, NC 27701 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	},
+	{
+		"venue_id": "ven_3039506265574e7a513737526b49727762596f36695f644a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "8901 Brier Creek Pkwy Raleigh, NC 27617 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	},
+	{
+		"venue_id": "ven_417639534b444e65317248526b49726f7a4f5a78525f374a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "7836 Leonardo Dr Durham, NC 27713 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	},
+	{
+		"venue_id": "ven_73773831306c346d536268526b4972767a6d53357938634a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "104 Residence Inn Blvd Durham, NC 27713 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	},
+	{
+		"venue_id": "ven_6b5a457449384c5f655556526b497268376b3176365a4c4a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "3429 Hillsborough Rd Durham, NC 27705 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	},
+	{
+		"venue_id": "ven_6b695f3447446d6b354f4c526b49726f6672424e4f66744a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "6910 Fayetteville Rd Ste 246 Durham, NC 27713 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	},
+	{
+		"venue_id": "ven_455733646d4a4d4530576c526b49726d6e6c62416a61754a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "4139 Durham-Chapel Hill Blvd Durham, NC 27707 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	},
+	{
+		"venue_id": "ven_45374930746c3563574176526b49726a484c4a4e397a754a496843",
+		"venue_name": "Chick-fil-A",
+		"venue_address": "3912 N Roxboro St Durham, NC 27704 United States",
+		"venue_forecasted": true,
+		"forecast_updated_on": "2022-01-26 03:48PM"
+	}
+]

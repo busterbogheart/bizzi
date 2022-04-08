@@ -1,0 +1,238 @@
+{
+	"status": "OK",
+	"venues": [
+		{
+			"day_info": {
+				"day_int": 4,
+				"day_max": 76,
+				"day_mean": 56,
+				"day_rank_max": 4,
+				"day_rank_mean": 5,
+				"day_text": "Friday",
+				"venue_closed": 20,
+				"venue_open": 9
+			},
+			"day_int": 4,
+			"day_raw": [
+				35
+			],
+			"price_level": 1,
+			"rating": 4.5,
+			"reviews": 1693,
+			"venue_address": "7906 NC-751 Durham, NC 27713 United States",
+			"venue_dwell_time_max": 20,
+			"venue_dwell_time_min": 20,
+			"venue_id": "ven_4167687971357a6e483177526b497270623263536a62754a496843",
+			"venue_lat": 35.9005728,
+			"venue_lng": -78.9601149,
+			"venue_name": "ALDI",
+			"venue_type": "SUPERMARKET"
+		},
+		{
+			"day_info": {
+				"day_int": 4,
+				"day_max": 93,
+				"day_mean": 57,
+				"day_rank_max": 2,
+				"day_rank_mean": 3,
+				"day_text": "Friday",
+				"venue_closed": 22,
+				"venue_open": 7
+			},
+			"day_int": 4,
+			"day_raw": [
+				40
+			],
+			"price_level": 2,
+			"rating": 4.3,
+			"reviews": 771,
+			"venue_address": "2930 W Main St Durham, NC 27705 United States",
+			"venue_dwell_time_max": 20,
+			"venue_dwell_time_min": 20,
+			"venue_id": "ven_7331464b6d57755f387831526b4972685446444142656a4a496843",
+			"venue_lat": 36.0143416,
+			"venue_lng": -78.9340478,
+			"venue_name": "Food Lion",
+			"venue_type": "GROCERY"
+		},
+		{
+			"day_info": {
+				"day_int": 4,
+				"day_max": 100,
+				"day_mean": 71,
+				"day_rank_max": 1,
+				"day_rank_mean": 1,
+				"day_text": "Friday",
+				"venue_closed": 18,
+				"venue_open": 8
+			},
+			"day_int": 4,
+			"day_raw": [
+				35
+			],
+			"price_level": 0,
+			"rating": 4.6,
+			"reviews": 635,
+			"venue_address": "305 E Club Blvd Durham, NC 27704 United States",
+			"venue_dwell_time_max": 20,
+			"venue_dwell_time_min": 20,
+			"venue_id": "ven_5953516454424b53384851526b49726a764a6771665f2d4a496843",
+			"venue_lat": 36.0198111,
+			"venue_lng": -78.8895639,
+			"venue_name": "King's Red & White Supermarket",
+			"venue_type": "GROCERY"
+		},
+		{
+			"day_info": {
+				"day_int": 4,
+				"day_max": 100,
+				"day_mean": 61,
+				"day_rank_max": 1,
+				"day_rank_mean": 3,
+				"day_text": "Friday",
+				"venue_closed": 21,
+				"venue_open": 8
+			},
+			"day_int": 4,
+			"day_raw": [
+				45
+			],
+			"price_level": 0,
+			"rating": 4.0,
+			"reviews": 564,
+			"venue_address": "1109 E Main St Durham, NC 27701 United States",
+			"venue_dwell_time_max": 20,
+			"venue_dwell_time_min": 20,
+			"venue_id": "ven_59374e66392d66464c5432526b49726b48474d6b5465304a496843",
+			"venue_lat": 35.9881118,
+			"venue_lng": -78.8878439,
+			"venue_name": "Los Primos Supermarket",
+			"venue_type": "GROCERY"
+		},
+		{
+			"day_info": {
+				"day_int": 4,
+				"day_max": 95,
+				"day_mean": 68,
+				"day_rank_max": 3,
+				"day_rank_mean": 2,
+				"day_text": "Friday",
+				"venue_closed": 21,
+				"venue_open": 8
+			},
+			"day_int": 4,
+			"day_raw": [
+				40
+			],
+			"price_level": 3,
+			"rating": 4.3,
+			"reviews": 559,
+			"venue_address": "4215 University Dr Ste A3 Durham, NC 27707 United States",
+			"venue_dwell_time_max": 20,
+			"venue_dwell_time_min": 20,
+			"venue_id": "ven_4967384e53786150505035526b49726d76313753757a6e4a496843",
+			"venue_lat": 35.963008,
+			"venue_lng": -78.958874,
+			"venue_name": "The Fresh Market",
+			"venue_type": "GROCERY"
+		},
+		{
+			"day_info": {
+				"day_int": 4,
+				"day_max": 100,
+				"day_mean": 57,
+				"day_rank_max": 1,
+				"day_rank_mean": 3,
+				"day_text": "Friday",
+				"venue_closed": 22,
+				"venue_open": 7
+			},
+			"day_int": 4,
+			"day_raw": [
+				40
+			],
+			"price_level": 2,
+			"rating": 4.3,
+			"reviews": 514,
+			"venue_address": "4621 Hillsborough Rd Durham, NC 27705 United States",
+			"venue_dwell_time_max": 20,
+			"venue_dwell_time_min": 20,
+			"venue_id": "ven_415872754a62342d73447a526b4972673739584c3263354a496843",
+			"venue_lat": 36.0318892,
+			"venue_lng": -78.9792296,
+			"venue_name": "Food Lion",
+			"venue_type": "GROCERY"
+		},
+		{
+			"day_info": {
+				"day_int": 4,
+				"day_max": 87,
+				"day_mean": 65,
+				"day_rank_max": 2,
+				"day_rank_mean": 2,
+				"day_text": "Friday",
+				"venue_closed": 19,
+				"venue_open": 9
+			},
+			"day_int": 4,
+			"day_raw": [
+				50
+			],
+			"price_level": 0,
+			"rating": 3.6,
+			"reviews": 368,
+			"venue_address": "401 E Lakewood Ave Durham, NC 27707 United States",
+			"venue_dwell_time_max": 20,
+			"venue_dwell_time_min": 20,
+			"venue_id": "ven_414a6f6f492d6f6b4a504d526b49726b6e3267393131684a496843",
+			"venue_lat": 35.9877778,
+			"venue_lng": -78.9002778,
+			"venue_name": "Food World",
+			"venue_type": "SUPERMARKET"
+		},
+		{
+			"day_info": {
+				"day_int": 4,
+				"day_max": 92,
+				"day_mean": 61,
+				"day_rank_max": 3,
+				"day_rank_mean": 2,
+				"day_text": "Friday",
+				"venue_closed": 21,
+				"venue_open": 8
+			},
+			"day_int": 4,
+			"day_raw": [
+				40
+			],
+			"price_level": 0,
+			"rating": 4.7,
+			"reviews": 87,
+			"venue_address": "1001 N Miami Blvd Durham, NC 27703 United States",
+			"venue_dwell_time_max": 20,
+			"venue_dwell_time_min": 20,
+			"venue_id": "ven_77775f5f33456f45664459526b49726c335079396b546d4a496843",
+			"venue_lat": 35.9933839,
+			"venue_lng": -78.8677277,
+			"venue_name": "Tropicana Supermarket",
+			"venue_type": "GROCERY"
+		}
+	],
+	"venues_n": 8,
+	"window": {
+		"day_window": "Friday 6PM until Saturday 7PM",
+		"day_window_end_int": 5,
+		"day_window_end_txt": "Saturday",
+		"day_window_start_int": 4,
+		"day_window_start_txt": "Friday",
+		"time_local": 18,
+		"time_local_12": "6PM",
+		"time_local_index": 12,
+		"time_window_end": 19,
+		"time_window_end_12h": "7PM",
+		"time_window_end_ix": 13,
+		"time_window_start": 18,
+		"time_window_start_12h": "6PM",
+		"time_window_start_ix": 12
+	}
+}

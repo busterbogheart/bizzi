@@ -1,0 +1,28 @@
+{
+	"status": "OK",
+	"analysis": {
+		"venue_forecasted_busyness": 70,
+		"venue_forecasted_busyness_available": true,
+		"venue_live_busyness": 45,
+		"venue_live_busyness_available": true,
+		"venue_live_forecasted_delta": -25,
+		"hour_start": 13,
+		"hour_start_12": "1PM",
+		"hour_end": 14,
+		"hour_end_12": "2PM"
+	},
+	"venue_info": {
+		"venue_current_gmttime": "Monday 2022-02-14 06:10PM",
+		"venue_current_localtime": "Monday 2022-02-14 01:10PM",
+		"venue_id": "ven_634477746c5833356b736c526b49726b446948565f584e4a496843",
+		"venue_name": "Food Lion",
+		"venue_address": "2000 Chapel Hill Rd Durham, NC 27707 United States",
+		"venue_timezone": "America/New_York",
+		"venue_open": "Open",
+		"venue_dwell_time_min": 20,
+		"venue_dwell_time_max": 20,
+		"venue_dwell_time_avg": 20,
+		"venue_lat": 35.9878208,
+		"venue_lon": -78.9279056
+	}
+}
