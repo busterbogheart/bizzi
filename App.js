@@ -1,13 +1,19 @@
 import React,{useEffect, useState} from 'react';
-import {TouchableOpacity,ScrollView,StyleSheet,Text,View} from 'react-native';
-import dummyData from './dummydata/all forecasted venues (venues).json';
-import MapView from 'react-native-maps';
+import {TouchableOpacity,ScrollView,StyleSheet,Text,View, PermissionsAndroid} from 'react-native';
+import MapView, {PROVIDER_GOOGLE} from 'react-native-maps';
+import messaging from '@react-native-firebase/messaging';
+import auth from '@react-native-firebase/auth';
+import firestore from '@react-native-firebase/firestore';
+import Geolocation from 'react-native-geolocation-service';
+import Geocoder from 'react-native-geocoding';
+
 
 const App = () => {
   const api_key_private = 'pri_b4657fb4c39642878a7f3c5173e98ba4';
   const api_key_public = 'pub_22e7ca71acc94b06907bde1b660f45a1';
-  const google_api_key = 'AIzaSyDZ7TVAJGAhwA-3kUyZd943wuv_PwaLwRY';
+  const google_api_key = 'AIzaSyCJ_UmDSelhqP0JZn-T-rG4tXR5fNy9Agc';
   const [res,setRes] = useState();
+  const [userCoordinates, setUserCoordinates] = useState({latitude:39,longitude:-97,latitudeDelta:45,longitudeDelta:45});
 
   //previously forecasts venues
   const apiVenueForecasted = 'https://besttime.app/api/v1/venues';
@@ -15,9 +21,35 @@ const App = () => {
   const venueGoldenPizza = 'ven_73373477642d7939674846526b49726d375a656d4f63634a496843';
 
   useEffect(() => {
+    //const userId = auth().currentUser.uid;
+    Geocoder.init(google_api_key);
     
+    const init = async() => {
+      await setUserLocation();
+      const FCMtoken = await messaging().getToken();
+    }
+    init();
   }, [])
 
+  const mapClick = async(data) => {
+    console.log(data);
+    const coords = data.coordinate;
+    const w = await Geocoder.from(coords);
+    console.log(JSON.stringify(w.results[0].formatted_address))    
+  }
+  
+  const setUserLocation = async() => {
+    const granted = await PermissionsAndroid.request(PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION, {});
+    if(granted){
+      Geolocation.getCurrentPosition(pos => setUserCoordinates({
+        latitude:pos.coords.latitude,
+        longitude:pos.coords.longitude,
+        latitudeDelta: .1,
+        longitudeDelta: .1,
+      }));
+      console.log(`set pos ${JSON.stringify(userCoordinates)}`)
+    }
+  }
   
   const fetchIt = async (endPoint,params,method) => {
     const start = new Date().getTime();
@@ -62,10 +94,7 @@ const App = () => {
     setRes(callTime+JSON.stringify(json,null,2));
   }
   
-  // for mobile prototype:
-  // subscribe to a venue found by googlemaps
-  // set different alerts
-
+  
   return (
     <>
       <View style={{flex:1}}>
@@ -76,13 +105,18 @@ const App = () => {
       </View>
       
       <MapView 
-        style={{flex:1, backgroundColor:'#f0f'}}
-        region={{
-         latitude: 35,
-         longitude: -78,
-         latitudeDelta: .2,
-         longitudeDelta: .2,
-       }}
+        style={{flex:2, backgroundColor:'#f0f'}}
+        //mapPadding={{top:30,left:30,right:30,bottom:40}}
+        toolbarEnabled
+        loadingEnabled
+        showsBuildings
+        showsPointsOfInterest
+        showsCompass
+        showsMyLocationButton
+        provider={PROVIDER_GOOGLE}
+        onPress={e => mapClick(e.nativeEvent)}
+        onPoiClick={e => mapClick(e.nativeEvent)}
+        region={userCoordinates}
       />
     </>
   );

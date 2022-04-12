@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880378768759",
+    "project_id": "bizzi-340800",
+    "storage_bucket": "bizzi-340800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880378768759:android:5aab3e9fab0b2e0cbc0572",
+        "android_client_info": {
+          "package_name": "net.ethankemp.bizzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880378768759-pt5sbdqflc4he4g7b79ij6nrmhj8f9pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD70cAjeuF0ilF50d3uBK-zsI7P9VuRrBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880378768759-pt5sbdqflc4he4g7b79ij6nrmhj8f9pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
