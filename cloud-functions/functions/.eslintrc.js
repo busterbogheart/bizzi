@@ -29,7 +29,7 @@ module.exports = {
     "no-multi-spaces":0,
     "padded-blocks":0,
     "comma-style":1,
-    "key-spacing":1,
+    "key-spacing":0,
     "space-before-blocks": 0,
     "max-len": 0,
     "spaced-comment": 0,
