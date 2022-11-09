@@ -3,6 +3,11 @@
 Google "busy times" but with more focused use cases.  BestTime API + Cloud Functions + Firestore + Cloud Messaging running in React Native.
 
 
+
+<img width="1723" alt="Screen Shot 2022-10-27 at 6 29 41 PM" src="https://user-images.githubusercontent.com/19196781/200869029-4a0a7fa9-47ec-4179-bc62-e92bbee02ce1.png">
+
+
+
 ## Pitch, USP
 Distinguished from Google 'popular times' feature (and apps that just re-display it) because:
 it's built around discovery (?)
